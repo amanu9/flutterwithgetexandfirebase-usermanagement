@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "860663173259",
+    "project_id": "fluller-login-app",
+    "storage_bucket": "fluller-login-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860663173259:android:916d6d54dca721193f048e",
+        "android_client_info": {
+          "package_name": "com.examp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_7MwzrK9_jr3M4CmobMBXgyi9-XY0Z9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860663173259:android:a9feaee9e55ee2873f048e",
+        "android_client_info": {
+          "package_name": "com.example.flutterwithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_7MwzrK9_jr3M4CmobMBXgyi9-XY0Z9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
